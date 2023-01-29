@@ -1,1 +1,3 @@
 # genrate_word_template
+
+#using pyplot and word cloud you can genrat colorfull word template ....
